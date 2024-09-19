@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JavaScript</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        var myArray = new Array();
+        myArray[0] = "pizza";
+        myArray[1] = "chocolate";
+        myArray[10] = "this works";
+        console.log(myArray);
+        for (var i = 0; i < myArray.length; i++) {
+            console.log(i + ": " + myArray[i])
+        }
+
+        var tweets = ["Morning everybody!", "I love coffee!"];
+        tweets.push("Back to work!");
+        tweets.splice(1, 1, "Cornflakes for breakfast!", "Num num");
+        console.log(tweets);
+    </script>
+</body>
+
+</html>

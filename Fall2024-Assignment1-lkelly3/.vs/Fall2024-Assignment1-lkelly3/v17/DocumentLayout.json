@@ -3,12 +3,31 @@
   "WorkspaceRootPath": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BC64EE0-0A14-4411-B0B6-BDA818A26E3F}|Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3.csproj|c:\\comp sci\\cs330\\p1\\fall2024-assignment1-lkelly3\\fall2024-assignment1-lkelly3\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9BC64EE0-0A14-4411-B0B6-BDA818A26E3F}|Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3.csproj|solutionrelative:fall2024-assignment1-lkelly3\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9BC64EE0-0A14-4411-B0B6-BDA818A26E3F}|Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3.csproj|c:\\comp sci\\cs330\\p1\\fall2024-assignment1-lkelly3\\fall2024-assignment1-lkelly3\\lkelly3-html.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BC64EE0-0A14-4411-B0B6-BDA818A26E3F}|Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3.csproj|solutionrelative:fall2024-assignment1-lkelly3\\lkelly3-html.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BC64EE0-0A14-4411-B0B6-BDA818A26E3F}|Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3.csproj|c:\\comp sci\\cs330\\p1\\fall2024-assignment1-lkelly3\\fall2024-assignment1-lkelly3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC64EE0-0A14-4411-B0B6-BDA818A26E3F}|Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3.csproj|solutionrelative:fall2024-assignment1-lkelly3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC64EE0-0A14-4411-B0B6-BDA818A26E3F}|Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3.csproj|c:\\comp sci\\cs330\\p1\\fall2024-assignment1-lkelly3\\fall2024-assignment1-lkelly3\\lkelly3-css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9BC64EE0-0A14-4411-B0B6-BDA818A26E3F}|Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3.csproj|solutionrelative:fall2024-assignment1-lkelly3\\lkelly3-css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC64EE0-0A14-4411-B0B6-BDA818A26E3F}|Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3.csproj|c:\\comp sci\\cs330\\p1\\fall2024-assignment1-lkelly3\\fall2024-assignment1-lkelly3\\lkelly3-js.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9BC64EE0-0A14-4411-B0B6-BDA818A26E3F}|Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3.csproj|solutionrelative:fall2024-assignment1-lkelly3\\lkelly3-js.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Comp Sci\\CS330\\P1\\JS guide\\02a-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Comp Sci\\CS330\\P1\\JS guide\\02b-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Comp Sci\\CS330\\P1\\JS guide\\02b-JavaScript-External.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Comp Sci\\CS330\\P1\\JS guide\\04-JavaScript-Responding_To_A_Click.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Comp Sci\\CS330\\P1\\JS guide\\02a-JavaScript-External.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +37,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lkelly3-HTML.html",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\lkelly3-HTML.html",
+              "RelativeDocumentMoniker": "Fall2024-Assignment1-lkelly3\\lkelly3-HTML.html",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\lkelly3-HTML.html",
+              "RelativeToolTip": "Fall2024-Assignment1-lkelly3\\lkelly3-HTML.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T21:31:26.882Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lkelly3-CSS.css",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\lkelly3-CSS.css",
+              "RelativeDocumentMoniker": "Fall2024-Assignment1-lkelly3\\lkelly3-CSS.css",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\lkelly3-CSS.css",
+              "RelativeToolTip": "Fall2024-Assignment1-lkelly3\\lkelly3-CSS.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T21:32:25.914Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lkelly3-JS.js",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\lkelly3-JS.js",
+              "RelativeDocumentMoniker": "Fall2024-Assignment1-lkelly3\\lkelly3-JS.js",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\lkelly3-JS.js",
+              "RelativeToolTip": "Fall2024-Assignment1-lkelly3\\lkelly3-JS.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-18T21:32:28.782Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "02a-JavaScript-External.html",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P1\\JS guide\\02a-JavaScript-External.html",
+              "RelativeDocumentMoniker": "..\\JS guide\\02a-JavaScript-External.html",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\JS guide\\02a-JavaScript-External.html",
+              "RelativeToolTip": "..\\JS guide\\02a-JavaScript-External.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-19T14:31:51.646Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "02a-script.js",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P1\\JS guide\\02a-script.js",
+              "RelativeDocumentMoniker": "..\\JS guide\\02a-script.js",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\JS guide\\02a-script.js",
+              "RelativeToolTip": "..\\JS guide\\02a-script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-19T14:32:14.52Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "02b-JavaScript-External.html",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P1\\JS guide\\02b-JavaScript-External.html",
+              "RelativeDocumentMoniker": "..\\JS guide\\02b-JavaScript-External.html",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\JS guide\\02b-JavaScript-External.html",
+              "RelativeToolTip": "..\\JS guide\\02b-JavaScript-External.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-19T14:32:22.427Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "02b-script.js",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P1\\JS guide\\02b-script.js",
+              "RelativeDocumentMoniker": "..\\JS guide\\02b-script.js",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\JS guide\\02b-script.js",
+              "RelativeToolTip": "..\\JS guide\\02b-script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-19T14:32:30.945Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e9d26e9f-2060-4aa2-bec3-2a9e07c66900}"
             },
             {
               "$type": "Bookmark",
@@ -30,29 +149,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "Fall2024-Assignment1-lkelly3\\wwwroot\\index.html",
-              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\wwwroot\\index.html",
-              "RelativeToolTip": "Fall2024-Assignment1-lkelly3\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "04-JavaScript-Responding_To_A_Click.html",
+              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P1\\JS guide\\04-JavaScript-Responding_To_A_Click.html",
+              "RelativeDocumentMoniker": "..\\JS guide\\04-JavaScript-Responding_To_A_Click.html",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\JS guide\\04-JavaScript-Responding_To_A_Click.html",
+              "RelativeToolTip": "..\\JS guide\\04-JavaScript-Responding_To_A_Click.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-11T23:35:35.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\Program.cs",
-              "RelativeDocumentMoniker": "Fall2024-Assignment1-lkelly3\\Program.cs",
-              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\Program.cs",
-              "RelativeToolTip": "Fall2024-Assignment1-lkelly3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T23:34:49.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T14:32:42.681Z"
             }
           ]
         }

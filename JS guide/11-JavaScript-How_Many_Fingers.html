@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JavaScript</title>
+</head>
+
+<body>
+    <p>How many fingers am I holding up?</p>
+    <p><input type="text" id="guess"> <button id="checkGuess">Guess!</button></p>
+    
+    <script type="text/javascript">
+        document.getElementById("checkGuess").onclick = function () {
+            var randomNumber = Math.floor(Math.random() * 6); // pseudoRNG: 0 <= Math.random() < 1
+            // CSPRNG vs PRNG - lamps
+
+            // implicit conversion
+            if (document.getElementById("guess").value == randomNumber) {
+                alert("Well done! You got it!");
+            } else {
+                alert("Nope! The number was " + randomNumber);
+            }
+        }
+    </script>
+</body>
+
+</html>

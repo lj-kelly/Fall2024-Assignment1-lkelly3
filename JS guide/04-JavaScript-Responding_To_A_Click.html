@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JavaScript</title>
+</head>
+
+<body>
+    <p id="text">Hello World!</p>
+    <button id="myButton">Change text</button>
+    
+    <script type="text/javascript">
+        // document.getElementById("DOES_NOT_EXIST").onclick = function () {
+        //     document.getElementById("text").innerHTML = "Hello Class!";
+        // }
+
+        // does not make it here if error is encountered
+        document.getElementById("myButton").onclick = function () {
+            debugger; // only breakpoints if dev tools is open
+            document.getElementById("text").innerHTML = "Hello Class!";
+        }
+    </script>
+</body>
+
+</html>

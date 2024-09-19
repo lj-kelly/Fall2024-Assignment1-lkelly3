@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--
+	- <div[ision]> to group
+	- px and other units of measurement
+	- https://www.w3schools.com/cssref/css_units.php
+	- px or rem (rem > em), browsers try to help
+-->
+<html>
+
+<head>
+	<title>Webpage Example</title>
+	<style type="text/css">
+		.redText {
+			color: red;
+		}
+
+		.largeText {
+			font-size: 200%;
+		}
+
+		.underlined {
+			text-decoration: underline;
+		}
+
+		#greenParagraph {
+			color: green;
+		}
+
+		#first-section {
+			color: blue;
+			background-color: pink;
+			width: 100px;
+		}
+
+		#second-section {
+			background-color: yellow;
+		}
+	</style>
+</head>
+
+<body>
+	<div id="first-section">
+		<p>
+			This is an example.
+		</p>
+		<p>
+			Wow, I love internal CSS!
+		</p>
+	</div>
+	<div id="second-section">
+		<p id="greenParagraph">
+			This is some more text. <span class="underlined">And this text is underlined.</span>
+		</p>
+		<h1 class="redText">CSS is Cool!</h1>
+	</div>
+</body>
+
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JavaScript</title>
+</head>
+
+<body>
+    <button onclick="funVarHoisted();">funVarHoisted()</button>
+    <button onclick="funVarRedeclaration();">funVarRedeclaration()</button>
+    <button onclick="funLetNoHoist();">funLetNoHoist()</button>
+    <button onclick="funPredefinedGlobal();">funPredefinedGlobal()</button>
+    <br/>
+    <br/>
+    <button onclick="funCheckGlobalVar();">funCheckGlobalVar()</button>
+    <button onclick="funDefineGlobalVar();">funDefineGlobalVar()</button>
+    <button onclick="funUndefineGlobalVar();">funUndefineGlobalVar()</button>
+    
+    <script type="text/javascript">
+        // https://www.w3schools.com/js/js_scope.asp
+
+        // causes all not predefined global references to trigger reference error
+        // also prevents non-var variables from being declared
+        //"use strict"; // do this last
+        
+        predefinedGlobalWithoutVar = "I am defined"; // can't do this in "use strict"
+
+        // function scope
+        function funVarHoisted() {
+            if (false) {
+                var text = "if";
+            }
+            else {
+                text = "else";
+            }
+            alert(text);
+        }
+
+        // function scope
+        function funVarRedeclaration() {
+            var text = "outer";
+            if (true) {
+                var text = "inner";
+            }
+            alert(text);
+        }
+
+        // block scope
+        function funLetNoHoist() {
+            let text = "outer";
+            if (true) {
+                let text = "inner";
+            }
+            alert(text);
+        }
+
+        var predefinedGlobal; // undefined
+        function funPredefinedGlobal() {
+            alert(predefinedGlobal);
+            predefinedGlobal = "I am now defined";
+        }
+
+        // will trigger reference error until globalVar is defined
+        // global scope
+        function funCheckGlobalVar() {
+            alert(globalVar);
+        }
+
+        // global scope
+        function funDefineGlobalVar() {
+            globalVar = "I'm not undefined any more";
+        }
+
+        // global scope
+        function funUndefineGlobalVar() {
+            globalVar = undefined;
+        }
+    </script>
+</body>
+
+</html>

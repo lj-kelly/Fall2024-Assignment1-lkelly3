@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!--
+    - fixed position is based on top-left corner of page but hangs/stays
+    - uncomment styling #first-section
+    - uncomment styling #second-section
+-->
+<html>
+
+<head>
+    <title>Webpage Example</title>
+    <style type="text/css">
+        .redText {
+            color: red;
+        }
+
+        .largeText {
+            font-size: 200%;
+        }
+
+        .underlined {
+            text-decoration: underline;
+        }
+
+        #greenParagraph {
+            color: green;
+        }
+
+        #first-section {
+            color: blue;
+            background-color: #CEF6CE;
+            width: 200px;
+            /*position: fixed;*/
+            /*element is out of flow of page. Similar to absolute, BUT, the item stays when page scrolls!*/
+            left: 500px;
+            top: 200px;
+        }
+
+        #second-section {
+            background-color: #8AB4F7;
+            width: 400px;
+            /*height: 5000px;*/
+        }
+    </style>
+</head>
+
+<body>
+    <div id="first-section">
+        <p>
+            This is an example.
+        </p>
+        <p>
+            Wow, I love internal CSS!
+        </p>
+    </div>
+    <div id="second-section">
+        <p id="greenParagraph">
+            This is some more text. <span class="underlined">And this text is underlined.</span>
+        </p>
+        <h1 class="redText">CSS is Cool!</h1>
+    </div>
+    This paragraph is not floated.
+</body>
+
+</html>

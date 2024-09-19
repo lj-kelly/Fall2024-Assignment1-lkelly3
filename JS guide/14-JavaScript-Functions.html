@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JavaScript</title>
+</head>
+
+<body>
+    <p>How many fingers are you holding up?</p>
+    <p>
+        <select id="myNumber">
+            <option>0</option>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+        </select>
+
+        <button id="guess">Guess!</button>
+    </p>
+
+    <script type="text/javascript">
+        // no return type, no parameter/argument datatypes
+        // type safety?
+
+        // function declaration, "hoisted"
+        function doAGuess(correctAnswer) {
+            var guess = Math.floor(Math.random() * 6);
+            return guess == correctAnswer;
+        }
+
+        // function expression, not "hoisted"
+        var doAGuess2 = function (correctAnswer) {
+            var guess = Math.floor(Math.random() * 6);
+            return guess == correctAnswer;
+        }
+
+        // arrow function, not "hoisted"
+        var doAGuess3 = (correctAnswer) => {
+            var guess = Math.floor(Math.random() * 6);
+            return guess == correctAnswer;
+        }
+
+        // https://developer.mozilla.org/en-US/docs/web/JavaScript/Reference/Operators/function
+
+        document.getElementById("guess").onclick = function () {
+            var myNumber = document.getElementById("myNumber").value;
+            var gotIt = false;
+            var numberOfGuesses = 1;
+
+            while (gotIt == false) {
+                if (doAGuess(myNumber)) {
+                    gotIt = true;
+                    alert("Got it! It was a " + myNumber + ". It took me " + numberOfGuesses + " guesses.");
+                } else {
+                    numberOfGuesses++;
+                }
+            }
+        }
+    </script>
+</body>
+
+</html>
