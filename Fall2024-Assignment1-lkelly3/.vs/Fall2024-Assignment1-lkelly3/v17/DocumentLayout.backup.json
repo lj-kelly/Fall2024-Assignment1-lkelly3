@@ -37,20 +37,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lkelly3-HTML.html",
               "DocumentMoniker": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\lkelly3-HTML.html",
               "RelativeDocumentMoniker": "Fall2024-Assignment1-lkelly3\\lkelly3-HTML.html",
-              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\lkelly3-HTML.html*",
-              "RelativeToolTip": "Fall2024-Assignment1-lkelly3\\lkelly3-HTML.html*",
+              "ToolTip": "C:\\Comp Sci\\CS330\\P1\\Fall2024-Assignment1-lkelly3\\Fall2024-Assignment1-lkelly3\\lkelly3-HTML.html",
+              "RelativeToolTip": "Fall2024-Assignment1-lkelly3\\lkelly3-HTML.html",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-18T21:31:26.882Z",
@@ -68,8 +64,7 @@
               "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-18T21:32:25.914Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -82,8 +77,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-09-18T21:32:28.782Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -109,8 +103,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-09-19T14:32:14.52Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -136,8 +129,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-09-19T14:32:30.945Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
