@@ -37,6 +37,7 @@ p2 {
 #actors {
     color: black;
     font-weight: bold;
+    padding: 0;
 }
 
 #act:hover {

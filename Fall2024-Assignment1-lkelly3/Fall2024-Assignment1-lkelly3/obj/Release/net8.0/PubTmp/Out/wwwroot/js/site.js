@@ -5,25 +5,25 @@
 // JavaScript source code
 function Diego() {
     // What to do
-    location.href = 'https://en.wikipedia.org/wiki/Diego_Luna';
+    window.open('https://en.wikipedia.org/wiki/Diego_Luna', '_blank');
 }
 
 function Felicity() {
     // What to do
-    location.href = 'https://en.wikipedia.org/wiki/Felicity_Jones';
+    window.open('https://en.wikipedia.org/wiki/Felicity_Jones', '_blank');
 }
 
 function Ben() {
     // What to do
-    location.href = 'https://en.wikipedia.org/wiki/Ben_Mendelsohn';
+    window.open('https://en.wikipedia.org/wiki/Ben_Mendelsohn', '_blank');
 }
 
 function Mads() {
     // What to do
-    location.href = 'https://en.wikipedia.org/wiki/Mads_Mikkelsen';
+    window.open('https://en.wikipedia.org/wiki/Mads_Mikkelsen', '_blank');
 }
 
 function Alan() {
     // What to do
-    location.href = 'https://en.wikipedia.org/wiki/Alan_Tudyk';
+    window.open('https://en.wikipedia.org/wiki/Alan_Tudyk', '_blank');
 }

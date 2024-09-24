@@ -3125,3 +3125,611 @@
 [0919/153730.138:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
 [0919/153730.138:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
 [0919/153730.138:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/124729.886:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124730.119:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/124730.119:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/124730.119:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/124730.119:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/124733.152:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124733.171:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124733.277:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/124733.277:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/124733.277:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/124733.277:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/124735.660:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124735.722:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124735.796:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/124735.796:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/124735.796:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/124735.796:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/124737.891:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124737.933:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124738.008:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/124738.008:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/124738.008:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/124738.009:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/124817.046:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124817.062:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124817.213:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/124817.213:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/124817.213:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/124817.213:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/124843.507:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124843.608:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/124843.608:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/124843.608:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/124843.608:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/124857.163:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124857.370:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/124857.371:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/124857.371:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/124857.371:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/124930.739:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/124931.270:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/124931.271:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/124931.271:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/124931.271:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125257.027:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125257.144:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125257.144:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125257.144:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125257.145:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125307.778:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125307.867:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125307.867:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125307.867:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125307.867:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125333.062:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125333.177:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125333.177:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125333.177:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125333.177:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125334.820:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125334.901:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125334.902:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125334.902:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125334.902:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125427.605:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125427.688:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125427.688:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125427.688:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125427.688:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125501.603:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125501.614:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125501.694:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125501.694:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125501.694:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125501.694:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125503.277:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125503.318:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125503.396:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125503.396:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125503.396:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125503.396:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125507.408:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125507.462:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125507.536:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125507.536:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125507.537:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125507.537:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125519.539:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125519.594:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125519.676:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125519.676:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125519.676:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125519.677:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125522.207:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125522.265:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125522.374:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125522.374:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125522.374:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125522.374:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125523.540:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125523.553:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125523.661:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125523.661:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125523.661:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125523.662:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125616.252:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125616.264:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125616.347:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125616.347:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125616.347:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125616.347:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125619.441:INFO:CONSOLE(56)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (56)
+[0923/125619.530:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125619.530:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125619.531:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125619.531:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125623.138:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125623.227:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125623.227:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125623.227:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125623.227:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125624.770:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125624.853:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125624.853:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125624.853:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125624.853:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125625.411:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125625.496:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125625.496:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125625.496:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125625.496:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125626.017:INFO:CONSOLE(1)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (1)
+[0923/125630.150:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125630.224:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125630.225:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125630.225:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125630.225:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125630.768:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125630.862:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125630.862:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125630.862:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125630.862:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125631.153:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125631.282:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125631.283:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125631.283:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125631.283:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125631.461:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125631.543:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125631.543:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125631.543:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125631.543:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125631.598:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125631.696:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125631.696:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125631.696:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125631.696:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125634.929:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125635.017:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125635.017:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125635.017:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125635.017:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125637.386:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125637.470:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125637.471:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125637.471:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125637.471:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125651.189:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125651.264:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125651.264:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125651.264:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125651.264:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125651.802:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125651.885:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125651.885:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125651.885:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125651.885:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125652.433:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125652.521:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125652.521:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125652.521:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125652.521:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125653.626:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125653.702:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125653.702:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125653.702:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125653.702:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125700.585:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125700.684:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125700.684:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125700.684:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125700.684:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125701.621:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125701.697:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125701.697:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125701.697:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125701.697:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125702.740:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125702.850:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125702.850:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125702.850:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125702.850:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125704.038:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125704.140:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125704.140:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125704.140:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125704.140:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125707.504:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125707.588:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125707.589:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125707.589:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125707.589:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125714.672:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125714.692:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125714.770:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125714.771:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125714.771:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125714.771:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125717.155:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125717.233:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125717.316:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125717.316:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125717.316:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125717.316:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/125721.906:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125721.922:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/125722.001:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/125722.001:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/125722.001:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/125722.001:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/131127.463:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0923/131131.337:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0923/131132.474:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0923/131136.372:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0923/131137.491:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0923/131141.386:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0923/131142.500:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0923/131146.400:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0923/131147.511:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0923/131151.425:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0923/131152.001:ERROR:gpu_process_host.cc(995)] GPU process exited unexpectedly: exit_code=1073807364
+[0923/131152.001:WARNING:gpu_process_host.cc(1308)] The GPU process has crashed 1 time(s)
+[0923/131152.009:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0923/131152.025:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0923/131152.057:ERROR:gpu_process_host.cc(995)] GPU process exited unexpectedly: exit_code=-1073741205
+[0923/131152.057:WARNING:gpu_process_host.cc(1308)] The GPU process has crashed 2 time(s)
+[0923/131152.057:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0923/131152.073:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0923/131152.073:ERROR:gpu_process_host.cc(995)] GPU process exited unexpectedly: exit_code=-1073741205
+[0923/131152.073:WARNING:gpu_process_host.cc(1308)] The GPU process has crashed 3 time(s)
+[0923/131152.073:FATAL:gpu_data_manager_impl_private.cc(414)] GPU process isn't usable. Goodbye.
+[0923/212537.968:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212538.383:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212538.383:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212538.383:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212538.383:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212558.495:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212558.626:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212558.627:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212558.627:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212558.627:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212602.901:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212602.952:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212603.065:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212603.065:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212603.065:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212603.066:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212603.227:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212603.351:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212603.351:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212603.351:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212603.352:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212613.249:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212613.272:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212613.461:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212613.461:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212613.461:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212613.461:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212614.587:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212614.599:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212614.869:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212614.869:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212614.869:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212614.869:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212632.210:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212632.221:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212632.357:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212632.357:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212632.357:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212632.357:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212734.312:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212734.446:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212734.446:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212734.446:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212734.446:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212746.997:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212747.160:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212747.160:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212747.160:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212747.160:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212750.183:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212750.323:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212750.323:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212750.323:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212750.323:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212906.484:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212906.604:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212906.604:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212906.604:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212906.604:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212911.466:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212911.584:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212911.585:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212911.585:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212911.585:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212914.087:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212914.145:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212914.275:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212914.277:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212914.277:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212914.277:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212917.206:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212917.288:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212917.406:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212917.406:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212917.406:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212917.406:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212920.234:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212920.277:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212920.404:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212920.404:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212920.405:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212920.405:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212921.446:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212921.492:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212921.608:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212921.608:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212921.608:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212921.608:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212924.929:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212925.060:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212925.060:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212925.060:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212925.060:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212926.300:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212926.427:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212926.427:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212926.427:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212926.427:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212931.337:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212931.462:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212931.463:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212931.463:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212931.463:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212937.374:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212937.763:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212937.763:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212937.763:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212937.764:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212941.060:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212941.200:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212941.200:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212941.201:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212941.201:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212947.585:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212947.711:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212947.711:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212947.711:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212947.711:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/212950.851:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/212950.969:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/212950.969:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/212950.969:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/212950.969:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213003.032:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213003.150:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213003.150:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213003.150:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213003.150:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213019.223:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213019.351:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213019.351:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213019.351:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213019.351:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213029.595:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213029.765:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213029.765:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213029.765:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213029.765:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213030.851:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213031.037:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213031.037:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213031.037:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213031.037:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213032.248:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213032.391:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213032.391:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213032.391:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213032.391:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213033.324:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213033.431:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213033.553:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213033.553:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213033.554:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213033.554:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213110.682:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213110.869:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213110.869:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213110.869:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213110.869:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213112.211:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213112.383:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213112.383:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213112.383:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213112.383:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213115.298:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213115.449:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213115.450:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213115.450:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213115.450:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213116.542:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213116.658:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213116.658:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213116.658:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213116.658:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213123.126:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213123.423:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213123.424:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213123.424:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213123.424:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213131.467:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213131.570:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213131.570:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213131.570:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213131.570:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213133.504:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213133.658:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213133.658:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213133.658:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213133.658:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213136.478:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213136.633:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213136.633:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213136.633:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213136.633:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213137.825:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213137.968:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213137.969:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213137.969:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213137.969:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213140.671:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213140.911:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213140.911:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213140.911:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213140.911:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213146.143:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213146.173:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213146.283:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213146.283:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213146.283:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213146.283:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213150.319:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213150.386:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213150.519:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213150.519:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213150.519:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213150.520:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213153.760:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213153.770:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213153.901:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213153.901:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213153.901:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213153.901:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213157.327:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213157.369:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213157.487:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213157.487:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213157.487:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213157.487:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213157.685:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213157.746:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213157.865:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213157.865:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213157.865:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213157.865:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
+[0923/213200.664:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213200.711:INFO:CONSOLE(57)] "Unrecognized feature: '
+'.", source: file:///C:/Comp%20Sci/CS330/P1/Fall2024-Assignment1-lkelly3/Fall2024-Assignment1-lkelly3/wwwroot/index.html (57)
+[0923/213200.835:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-bitness'.", source:  (0)
+[0923/213200.835:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-full-version-list'.", source:  (0)
+[0923/213200.835:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-wow64'.", source:  (0)
+[0923/213200.836:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factors'.", source:  (0)
